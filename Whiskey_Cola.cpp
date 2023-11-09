@@ -1,5 +1,4 @@
 // Whiskey_Cola.cpp : Программа, которая расчитывает ингредиенты в напитке виски-кола.
-
 #include <iostream>
 using namespace std;
 
@@ -24,6 +23,5 @@ int main()
 	cout << "Drink = " << Drink << endl;
 
 	return 0;
-
 }
 
