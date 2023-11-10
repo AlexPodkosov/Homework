@@ -1,9 +1,7 @@
-﻿// Home task_3.cpp Вывести на экран сравинительную таблицу сос тоимостью поездки на разных видах бензина.
-
+﻿// Rashod_benzina.cpp Вывести на экран сравинительную таблицу сос тоимостью поездки на разных видах бензина.
 
 #include <iostream>
 using namespace std;
-
 
 int main()
 {
@@ -24,7 +22,6 @@ int main()
 
     cout << "Benz3 = ";
     cin >> summa3;
-    
     
     summa_poezdki1 = rastoyanie * summa1* rashod/100;
     summa_poezdki2 = rastoyanie * summa2* rashod/100;
