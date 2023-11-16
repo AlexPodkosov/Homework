@@ -3,11 +3,10 @@
 #include <iostream>
 using namespace std;
 
-
 int main()
 {
 	setlocale(0, "");
-
+	
 	int simvol;
 	char ch;
 	cout << "Пожалуйста, введите символ : \n";
